@@ -65,7 +65,7 @@ npm run dev
 ## 🌐 Live Demo
 
 Check out the live application hosted on Netlify:
-👉 [trip-sense.netlify.app](https://www.google.com/search?q=https://trip-sense.netlify.app)
+👉 [trip-sense.netlify.app](https://trip-sense.netlify.app/)
 
 ## 💡 Future Enhancements
 
